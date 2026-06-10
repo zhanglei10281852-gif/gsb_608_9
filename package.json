@@ -1,0 +1,21 @@
+{
+  "name": "csvsql-mini",
+  "version": "1.0.0",
+  "description": "A mini SQL query engine for CSV files",
+  "main": "dist/cli.js",
+  "bin": {
+    "csvsql-mini": "dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/cli.js",
+    "dev": "ts-node src/cli.ts"
+  },
+  "keywords": ["csv", "sql", "cli"],
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0"
+  }
+}
