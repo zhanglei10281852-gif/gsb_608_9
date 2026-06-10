@@ -1,0 +1,21 @@
+{
+  "name": "csv-sql",
+  "version": "1.0.0",
+  "description": "A command-line tool to run SQL queries on CSV files",
+  "main": "dist/cli.js",
+  "bin": {
+    "csv-sql": "dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/cli.js",
+    "dev": "tsc -w"
+  },
+  "keywords": ["csv", "sql", "cli", "query"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "@types/node": "^20.11.0"
+  }
+}
