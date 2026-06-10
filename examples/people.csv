@@ -1,0 +1,16 @@
+id,name,age,city,salary,dept_id
+1,Alice,28,Beijing,8500,1
+2,Bob,35,"New York",12000,2
+3,Charlie,19,"San Francisco",5500,1
+4,Diana,42,London,18000,3
+5,Eve,25,Tokyo,7200,2
+6,Frank,31,Beijing,9800,1
+7,Grace,17,Paris,4000,3
+8,"Hank, Jr.",55,"Hong Kong",25000,2
+9,Ivy,22,"Los Angeles",6100,1
+10,Jack,40,Chicago,15500,3
+11,Kate,33,Beijing,11200,2
+12,Leo,29,Berlin,9000,1
+13,Mia,16,Madrid,3500,3
+14,Nick,48,Sydney,22000,2
+15,Olivia,27,Toronto,8000,1
